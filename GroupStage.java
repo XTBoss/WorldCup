@@ -17,6 +17,8 @@ public class GroupStage{
         //转换成数字会丢失左边的0 这个while循环可以把左边的0补齐
         while(results.length() < 6) results = "0" + results;	
         //true表示循环没有结束 还有没遍历的结果
+
+        ///test
         return true;
         
     }
